@@ -1,0 +1,2 @@
+/Users/polina/Desktop/C#/Lab_4/Lab_4/obj/Debug/Lab_4.csprojAssemblyReference.cache
+/Users/polina/Desktop/C#/Lab_4/Lab_4/obj/Debug/Lab_4.csproj.CoreCompileInputs.cache
